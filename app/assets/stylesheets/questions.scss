@@ -1,0 +1,23 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.speaking {
+  font-style: italic;
+  font-size: 15px;
+}
+
+
+.me-speaking{
+  margin-left: 20px;
+  padding-left: 10px;
+  width: 200px;
+  border-left: 5px solid black;
+}
+.coach-speaking{
+  width: 200px;
+  background-color: #C8E0F2;
+  margin-left: 20px;
+  padding-left: 10px;
+  border-left: 5px solid black;
+}
